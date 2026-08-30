@@ -1,5 +1,5 @@
 ##  Hi, I'm Aderayo 👋
-### Backend & AI Application Developer**
+### Backend & AI Application Developer
 
 I build software and AI-enabled applications with Python, with a growing focus on backend engineering, APIs, databases, testing, and AI application development.
 
@@ -57,4 +57,3 @@ Through **ETHENTRA**, I am building a research-driven technology company focused
 **Building useful software. Learning deeply. Shipping real systems.**
 
 
--->
