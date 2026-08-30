@@ -1,16 +1,60 @@
-## Hi there 👋
+##  Hi, I'm Aderayo 👋
+### Backend & AI Application Developer**
 
-<!--
-**Olami024/Olami024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build software and AI-enabled applications with Python, with a growing focus on backend engineering, APIs, databases, testing, and AI application development.
 
-Here are some ideas to get you started:
+I am currently developing **The Responsibility Lens**, a human-centred AI assessment and decision-support application, while deepening my skills in backend and AI systems through real-world projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+
+**Current stack:**
+Python • Streamlit • pytest • Matplotlib • Git/GitHub
+
+**Current development:**
+FastAPI • PostgreSQL • REST APIs
+
+**Planned architecture:**
+AI integration • RAG • Authentication • Docker • Cloud deployment
+
+## 💻 Technical Focus
+
+* Python
+* Backend Web Development
+* REST APIs
+* SQL & PostgreSQL
+* Software Testing
+* Git & GitHub
+* AI Applications
+
+## 🌱 Currently Learning
+
+I am currently strengthening my skills in:
+
+* backend application architecture
+* FastAPI and PostgreSQL
+* API development
+* database design
+* Docker and deployment
+* production AI applications
+
+## 🧠 Beyond Code
+
+I am also a philosopher who teaches and explains philosophical ideas and their practical applications, and an ethicist interested in ethics, human judgment, agency, and technology.
+
+Through **ETHENTRA**, I am building a research-driven technology company focused on software, AI applications, and digital systems.
+
+## A little more about me
+
+* 🔭 **Currently working on:** The Responsibility Lens and backend/AI applications
+* 🌱 **Currently learning:** FastAPI, PostgreSQL, backend architecture, APIs, Docker, and production AI systems
+* 👯 **Open to collaborating on:** Python, backend, AI applications, research-tech, and human-centred technology projects
+* 💬 **Ask me about:** Python, philosophy, ethics, human judgment, research, and responsible technology
+* 📫 **How to reach me:** [hello@aderayoadelanwa.com](mailto:hello@aderayoadelanwa.com)
+* ⚡ **Fun fact:** I work across two worlds — philosophy and technology.
+
+---
+
+**Building useful software. Learning deeply. Shipping real systems.**
+
+
 -->
