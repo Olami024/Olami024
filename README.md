@@ -1,10 +1,11 @@
 ##  Hi, I'm Aderayo 👋
-### Backend & AI Application Developer
+### Research Consultant | Technical Writer | Backend & AI Application Developer
 
-I build software and AI-enabled applications with Python, with a growing focus on backend engineering, APIs, databases, testing, and AI application development.
+I'm a Research Consultant and technical writer developing my software engineering practice through Python, backend development, and AI applications.
 
-I am currently developing **The Responsibility Lens**, a human-centred AI assessment and decision-support application, while deepening my skills in backend and AI systems through real-world projects.
+My technical interests include server-side applications, APIs, databases, data infrastructure, research software, and emerging technologies. I also write documentation and tutorials that make complex technical systems easier to understand.
 
+Currently building The Responsibility Lens, a human-centred AI assessment and decision-support application.
 
 
 **Current stack:**
@@ -39,18 +40,14 @@ I am currently strengthening my skills in:
 
 ## 🧠 Beyond Code
 
-I am also a philosopher who teaches and explains philosophical ideas and their practical applications, and an ethicist interested in ethics, human judgment, agency, and technology.
+I'm a PhD Researcher in Philosophy exploring how computational systems shape human judgment and decision-making.
 
-Through **ETHENTRA**, I am building a research-driven technology company focused on software, AI applications, and digital systems.
+Through **ETHENTRA**, a firm focused on connects research, learning, and technology to investigate complex problems, develop knowledge, and explore practical responses.
 
 ## A little more about me
-
-* 🔭 **Currently working on:** The Responsibility Lens and backend/AI applications
-* 🌱 **Currently learning:** FastAPI, PostgreSQL, backend architecture, APIs, Docker, and production AI systems
 * 👯 **Open to collaborating on:** Python, backend, AI applications, research-tech, and human-centred technology projects
 * 💬 **Ask me about:** Python, philosophy, ethics, human judgment, research, and responsible technology
 * 📫 **How to reach me:** [hello@aderayoadelanwa.com](mailto:hello@aderayoadelanwa.com)
-* ⚡ **Fun fact:** I work across two worlds — philosophy and technology.
 
 ---
 
