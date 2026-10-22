@@ -1,56 +1,11 @@
-##  Hi, I'm Aderayo 👋
-### Research Consultant | Technical Writer | Backend & AI Application Developer
+Hi, I'm Aderayo! 👋
 
-I'm a Research Consultant and technical writer developing my software engineering practice through Python, backend development, and AI applications.
+I'm an applied philosopher and aspiring Data Engineer, currently building my skills in Python, Data Engineering, and Backend Development.
 
-My technical interests include server-side applications, APIs, databases, data infrastructure, research software, and emerging technologies. I also write documentation and tutorials that make complex technical systems easier to understand.
+My interests lie at the intersection of **data, intelligence, and human decision-making**, particularly how they influence technology, business, and society.
 
-Currently building The Responsibility Lens, a human-centred AI assessment and decision-support application.
+I use GitHub to document my engineering journey, build practical projects, and explore how reliable data systems can support better decisions.
 
+**Current focus:** Python • SQL • Data Engineering • Backend Development • AI
 
-**Current stack:**
-Python • Streamlit • pytest • Matplotlib • Git/GitHub
-
-**Current development:**
-FastAPI • PostgreSQL • REST APIs
-
-**Planned architecture:**
-AI integration • RAG • Authentication • Docker • Cloud deployment
-
-## 💻 Technical Focus
-
-* Python
-* Backend Web Development
-* REST APIs
-* SQL & PostgreSQL
-* Software Testing
-* Git & GitHub
-* AI Applications
-
-## 🌱 Currently Learning
-
-I am currently strengthening my skills in:
-
-* backend application architecture
-* FastAPI and PostgreSQL
-* API development
-* database design
-* Docker and deployment
-* production AI applications
-
-## 🧠 Beyond Code
-
-I'm a PhD Researcher in Philosophy exploring how computational systems shape human judgment and decision-making.
-
-Through **ETHENTRA**, a firm focused on connects research, learning, and technology to investigate complex problems, develop knowledge, and explore practical responses.
-
-## A little more about me
-* 👯 **Open to collaborating on:** Python, backend, AI applications, research-tech, and human-centred technology projects
-* 💬 **Ask me about:** Python, philosophy, ethics, human judgment, research, and responsible technology
-* 📫 **How to reach me:** [hello@aderayoadelanwa.com](mailto:hello@aderayoadelanwa.com)
-
----
-
-**Building useful software. Learning deeply. Shipping real systems.**
-
-
+**Long-term interests:** AI Engineering • Data Architecture • Intelligent Systems • Philosophy of Data
