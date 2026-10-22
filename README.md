@@ -1,6 +1,6 @@
 Hi, I'm Aderayo! 👋
 
-I'm an applied philosopher and aspiring Data Engineer, currently building my skills in Python, Data Engineering, and Backend Development.
+I'm an applied philosopher, a Phd candidate and aspiring Data Engineer, currently building my skills in Python, Data Engineering, and Backend Development.
 
 My interests lie at the intersection of **data, intelligence, and human decision-making**, particularly how they influence technology, business, and society.
 
